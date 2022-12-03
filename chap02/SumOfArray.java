@@ -1,6 +1,6 @@
 package chap02;
 
-public class SumOfArray { // 2.1 반복문과 배열의 기본
+public class SumOfArray { // 반복문과 배열의 기본
     public static void main(String[] args) {
         int[] a = { 72, 68, 92, 88, 41, 53, 97, 84, 39, 55 };
         int sum = 0;
